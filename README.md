@@ -6,6 +6,10 @@ After installing everything, execute :
 
 `python question_classifier.py`
 
+Pop up would come for selecting training file (data/labelleddata.txt ) and test file.
+
+Finally test_output.txt would be generated as the output file.
+
 # Installation Instructions
 
 It would be helpful installing miniconda as it will make further installations.
