@@ -20,5 +20,7 @@ Install python-tk, on linux machines:
 
 Pandas, Numpy, sklearn also need to be installed.
 `conda install pandas`
+
 `conda install numpy`
+
 `conda install sklearn`
