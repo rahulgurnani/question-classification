@@ -77,6 +77,13 @@ def map_data_to_int(all_data, label):
 	return mapping, all_data
 
 def main():
+	"""
+		1) we first read the train data. 
+		2) Features considered are  'First Word', 'First Word PosTag', 'Second Word', 'Second Word Pos Tag', first 'Wh- Word'  present (question word) 
+		3) Next we create a pandas data frame with mapping all the strings to integer.
+		4) Next we train model and use it for predcition.
+	
+	"""
 	print "---------------------- Choose training data file (Choose : data/labelleddata.txt) --------------------"
 	Tk().withdraw() 
 	train_filename = askopenfilename() # pop up for selection
