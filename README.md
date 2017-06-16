@@ -19,6 +19,7 @@ Install python-tk, on linux machines:
 `sudo apt-get install python-tk`
 
 Pandas, Numpy, sklearn also need to be installed.
+
 `conda install pandas`
 
 `conda install numpy`
