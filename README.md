@@ -2,7 +2,11 @@
 
 This repository contains code for classification of questions in categories like what, when, affirmative question etc.
 
-# Instalation Instructions
+After installing everything, execute :
+
+`python question_classifier.py`
+
+# Installation Instructions
 
 It would be helpful installing miniconda as it will make further installations.
 
