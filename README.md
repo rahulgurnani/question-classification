@@ -6,8 +6,7 @@ This repository contains code for classification of questions in categories like
 
 It would be helpful installing miniconda as it will make further installations.
 
-Install spacy, you can find the details of installation here.
+Install spacy using > conda install spacy, you can find the details of installation [here](https://spacy.io/docs/usage/).
 
 Install python-tk, on linux machines:
-sudo apt-get install python-tk
-
+> sudo apt-get install python-tk
